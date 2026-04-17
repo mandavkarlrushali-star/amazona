@@ -25,8 +25,7 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/amazona.git
-$ cd amazona
+ https://github.com/mandavkarlrushali-star/amazona.git
 ```
 
 ### 2. Setup MongoDB
