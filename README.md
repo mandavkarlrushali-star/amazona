@@ -1,4 +1,4 @@
-# Amazona ECommerce Website
+# Amazona E-Commerce Project (MERN Stack)
 ![amazona](/template/images/amazona.jpg)
 
 # React & Node Tutorial - Full ECommerce in 9 Hours [2021]
@@ -6,8 +6,7 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 
 ## Demo Website
 
-- 👉 Heroku : [https://react-amazona.herokuapp.com](https://react-amazona.herokuapp.com)
-- 👉 Heroku Mirror: [https://react-amazona-mirror.herokuapp.com](https://react-amazona-mirror.herokuapp.com)
+- 👉 My Project : https://github.com/mandavkarlrushali-star/amazona.git
 
 
 ## You Will Learn
@@ -69,10 +68,7 @@ $ npm start
 - Run http://localhost:3000/signin
 - Enter admin email and password and click signin
 
-## Support
 
-- Q/A: https://webacademy.pro/amazona
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
 
 ## Lessons
 
